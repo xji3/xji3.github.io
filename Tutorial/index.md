@@ -145,9 +145,9 @@ We could do this by modifying the "default.html" file.
 
 We won't talk about the "\_includes" folder although it has important functionalities.  You might want to read [this page](https://jekyllrb.com/docs/includes/) if interested.
 
-Include is related to the statement containing "include", e.g. "{% include footer.html %}" will let Jekyll look for the referenced "footer.html" file in the \_includes folder at the root of the source directory and insert its content.
+Include is related to the statement containing "include", e.g. `{ % include footer.html % }` will let Jekyll look for the referenced "footer.html" file in the \_includes folder at the root of the source directory and insert its content.
 
-To make things simple, we can comment out the "{% include head-custom-google-analytics.html %}" at line 4 in "\_includes/head-custom.html" file.
+To make things simple, we can comment out the `{ % include head-custom-google-analytics.html % }` at line 4 in "\_includes/head-custom.html" file.
 
 ##### Directory structure
 
