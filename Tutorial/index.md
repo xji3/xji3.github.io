@@ -37,11 +37,10 @@ Now, we want to get a local copy of these files.
 
 You could do it either by
 
-1.
+
+1. type in the terminal
 ```
 cd where_to_store_this_repo
-```  
-```
 git clone https://github.com/pages-themes/minimal.git
 ```  
 2. Download a ZIP file from "Code" -> "Download ZIP"
