@@ -67,7 +67,7 @@ bundle exec jekyll serve
 I ran into an error mesage:
 ![JekyllError](./images/jekyll_error.png)
 
-After some googling, it seems fixed by following the solution in this [jekyll issue report](https://github.com/jekyll/jekyll/issues/8523) adding a line into the _Gemfile_
+After some googling, it seems fixed by following the solution in this [jekyll issue report](https://github.com/jekyll/jekyll/issues/8523) and adding a line into the _Gemfile_
 ```
 gem "webrick"
 ```
@@ -123,7 +123,7 @@ Looks familiar?  We saw it in the "_config.yml" file!
 Basically, this chunk means getting the value stored in the variable "site.title" which is defined in the "\_config.yml" file.
 
 For more details, you want to learn about [Liquid](https://jekyllrb.com/docs/liquid/).
-If you know nothing about HTML format, this minimal section of introduction might help [HTML intro](https://tulane-math-7360-2021.github.io/lectures/13-scraping/scraping.html#html-introduction) and of course, Google is your best friend.
+If you know nothing about HTML format, this minimal amount of introduction might help [HTML intro](https://tulane-math-7360-2021.github.io/lectures/13-scraping/scraping.html#html-introduction) and of course, Google is your best friend.
 
 Now, let's change the "site.title" value by changing the "\_config.yml" file.
 And we want to point the "logo" to a different picture.
