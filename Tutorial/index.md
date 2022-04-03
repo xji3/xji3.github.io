@@ -136,7 +136,7 @@ Let's take a quick look at the changes to the site (locally)
 
 ![site_with_new_name](./images/new_site_title.png)
 
-I feel also want to change the tiny single line at the lower left corner.
+I also want to change the tiny single line at the lower left corner.
 We could do this by modifying the "default.html" file.
 
 ![footer](./images/modified_footer.png)
