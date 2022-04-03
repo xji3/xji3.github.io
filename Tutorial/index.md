@@ -202,7 +202,7 @@ After the site is built, you might notice a little difference
 
 If you don't like the "View My GitHub Profile" part, you should be able to remove it by editing the "default.html" page by yourself.
 
-##### Embed pdf file onto webpage
+##### Embed pdf file into webpage
 
 You can embed pdf file into the webpage by using [PDFObject javascript](https://github.com/pipwerks/PDFObject).  You can find an example of it in how I wrote my "CV" and "Research" pages.
 
