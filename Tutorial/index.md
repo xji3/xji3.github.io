@@ -219,3 +219,9 @@ I simply changed the color for "h1" and "a" tags.
 #### Markdown cheat sheet
 
 Of course I kept a cheat sheet locally [here](./cheat_sheet.md)
+
+#### Q&A
+
+1. Jekyll installation problem
+
+	Thanks to Rubaiyat Islam for sharing this [webpage](https://jekyllrb.com/docs/installation/macos/#local-install) that solves the installation problem for him.
